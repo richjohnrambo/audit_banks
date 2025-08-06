@@ -13,3 +13,9 @@ states/
 # Optional
 .env
 .env.local
+lib
+/lib/
+out
+cache
+broadcast
+.github
